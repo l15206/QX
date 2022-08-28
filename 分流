@@ -1,0 +1,52 @@
+# YouTube部分
+USER-AGENT,com.google.ios.youtube*,ForeignMedia
+USER-AGENT,YouTube*,ForeignMedia
+DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
+DOMAIN-SUFFIX,youtube.com,ForeignMedia
+DOMAIN,youtubei.googleapis.com,ForeignMedia
+# TikTok
+USER-AGENT,TikTok*,ForeignMedia
+DOMAIN-SUFFIX,musical.ly,ForeignMedia
+DOMAIN-SUFFIX,tiktokv.com,ForeignMedia
+DOMAIN-SUFFIX,tiktokcdn.com,ForeignMedia
+DOMAIN-KEYWORD,-tiktokcdn-com,ForeignMedia
+#  Spotify
+USER-AGENT,Spotify*,ForeignMedia
+DOMAIN-SUFFIX,pscdn.co,ForeignMedia
+DOMAIN-SUFFIX,scdn.co,ForeignMedia
+DOMAIN-SUFFIX,spotify.com,ForeignMedia
+DOMAIN-SUFFIX,spoti.fi,ForeignMedia
+IP-CIDR,35.186.224.47/32,ForeignMedia
+# Netflix
+USER-AGENT,Argo*,ForeignMedia
+DOMAIN-KEYWORD,nflx,ForeignMedia
+DOMAIN-SUFFIX,netflix.com,ForeignMedia
+DOMAIN-SUFFIX,netflix.net,ForeignMedia
+DOMAIN-SUFFIX,nflxext.com,ForeignMedia
+DOMAIN-SUFFIX,nflximg.com,ForeignMedia
+DOMAIN-SUFFIX,nflximg.net,ForeignMedia
+DOMAIN-SUFFIX,nflxso.net,ForeignMedia
+DOMAIN-SUFFIX,nflxvideo.net,ForeignMedia
+IP-CIDR,23.246.0.0/18,ForeignMedia
+IP-CIDR,37.77.184.0/21,ForeignMedia
+IP-CIDR,45.57.0.0/17,ForeignMedia
+IP-CIDR,64.120.128.0/17,ForeignMedia
+IP-CIDR,66.197.128.0/17,ForeignMedia
+IP-CIDR,108.175.32.0/20,ForeignMedia
+IP-CIDR,192.173.64.0/18,ForeignMedia
+IP-CIDR,198.38.96.0/19,ForeignMedia
+IP-CIDR,198.45.48.0/20,ForeignMedia
+# > Google
+host-SUFFIX,blog.google,DIRECT
+host-SUFFIX,googletraveladservices.com,DIRECT
+host,clientservices.googleapis.com,DIRECT
+host,dl.google.com,DIRECT
+host,dl.l.google.com,DIRECT
+host,fonts.googleapis.com,DIRECT
+host,fonts.gstatic.com,DIRECT
+host,mtalk.google.com,DIRECT
+host,translate.googleapis.com,DIRECT
+host,update.googleapis.com,DIRECT
+# > Tencent
+host,livew.l.qq.com,DIRECT
+host,vd.l.qq.com,DIRECT
