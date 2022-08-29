@@ -1,3 +1,7 @@
+# NAME: 12306
+HOST-SUFFIX,12306.cn,12306
+HOST-SUFFIX,95306.cn,12306
+HOST-SUFFIX,rails.cn,12306
 # NAME: WeChat
 HOST,dl.wechat.com,WeChat
 HOST,sgfindershort.wechat.com,WeChat
