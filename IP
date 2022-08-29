@@ -1,5 +1,3 @@
-#国家反诈中心
-DOMAIN-SUFFIX,gjfzpt.cn,REJECT 
 #抖音
 DOMAIN-KEYWORD,core-c-lq,IP
 DOMAIN-KEYWORD,core-lq,IP
