@@ -1,7 +1,14 @@
-# NAME: douyin 
+# NAME: DouYin 
+HOST-KEYWORD,aweme,DouYin
+HOST-KEYWORD,ixigua.com,DouYin
+HOST-KEYWORD,ixiguavideo.com,DouYin
+HOST-KEYWORD,toutiao.com,DouYin
+HOST-KEYWORD,douyin,DouYin
+HOST-KEYWORD,zijie,DouYin
+HOST-KEYWORD,byte,DouYin
 HOST-SUFFIX,amemv.com,DouYin
-HOST-SUFFIX,ixigua.com,DouYin
-HOST-SUFFIX,ixiguavideo.com,DouYin
 HOST-SUFFIX,pstatp.com,DouYin
 HOST-SUFFIX,snssdk.com,DouYin
-HOST-SUFFIX,toutiao.com,DouYin
+HOST-SUFFIX,zjcdn.com,DouYin
+HOST-SUFFIX,pandora.com,DouYin
+HOST-SUFFIX,dig.bdurl.net,DouYin
